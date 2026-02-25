@@ -177,4 +177,5 @@ Don't forget to use a password unique to your Monarch account and to enable mult
 
 *Disclaimer: These projects are neither affiliated nor endorsed by Monarch Money.*
 
-[mmoney-cli](https://github.com/theFong/mmoney-cli) - Access your MonarchMoney data via CLI
+- [mmoney-cli](https://github.com/theFong/mmoney-cli) - Access your MonarchMoney data via CLI
+- [monarchmoney-typed](https://github.com/jeeftor/monarchmoney-typed) - MonarchMoney Home Assistant Integration
